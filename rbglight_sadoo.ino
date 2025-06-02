@@ -1,7 +1,7 @@
 /*
-name :sadeen abdelalrahman
+author:sadeen abdelalrahman
 date:30/5/2025
-you can make a any color you want need the 3 colores :red ,green,blue
+ 
 */
 const int redpin = 9;
 const int greenpin = 10;

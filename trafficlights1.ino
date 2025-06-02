@@ -1,5 +1,5 @@
 /*project:making a traffic light using :red,yallow,green
-sadeen yousef 
+author:sadeen yousef 
 28/3/2025
 
 

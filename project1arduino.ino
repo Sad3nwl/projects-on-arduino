@@ -10,7 +10,6 @@
 #define ledr  13
 #define ledg 12 
 #define ledy  10
-
 void setup() {
   Serial.begin(9600);
   Serial.println("Enter a number to light the lamp (0-12):");

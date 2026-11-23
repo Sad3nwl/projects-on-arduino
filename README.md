@@ -1,2 +1,1 @@
-this file for projects on arduino based on course 
-checke the projects ...
+ ###
